@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+streamlit
+sentence-transformers
+pandas
+scikit-learn
+selenium
+webdriver-manager
